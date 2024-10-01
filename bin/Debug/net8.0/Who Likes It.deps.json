@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Who Likes It/1.0.0": {
+        "runtime": {
+          "Who Likes It.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Who Likes It/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

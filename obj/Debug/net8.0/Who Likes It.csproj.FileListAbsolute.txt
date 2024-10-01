@@ -1,0 +1,14 @@
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Who Likes It\bin\Debug\net8.0\Who Likes It.exe
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Who Likes It\bin\Debug\net8.0\Who Likes It.deps.json
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Who Likes It\bin\Debug\net8.0\Who Likes It.runtimeconfig.json
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Who Likes It\bin\Debug\net8.0\Who Likes It.dll
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Who Likes It\bin\Debug\net8.0\Who Likes It.pdb
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Who Likes It\obj\Debug\net8.0\Who Likes It.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Who Likes It\obj\Debug\net8.0\Who Likes It.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Who Likes It\obj\Debug\net8.0\Who Likes It.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Who Likes It\obj\Debug\net8.0\Who Likes It.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Who Likes It\obj\Debug\net8.0\Who Likes It.dll
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Who Likes It\obj\Debug\net8.0\refint\Who Likes It.dll
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Who Likes It\obj\Debug\net8.0\Who Likes It.pdb
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Who Likes It\obj\Debug\net8.0\Who Likes It.genruntimeconfig.cache
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Who Likes It\obj\Debug\net8.0\ref\Who Likes It.dll
